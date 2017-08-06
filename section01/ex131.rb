@@ -1,5 +1,5 @@
 i=1
 while i<=10
-    puts i
+    puts "i = #{i}"
     i = i + 1
 end
