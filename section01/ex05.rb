@@ -1,3 +1,3 @@
-puts "Hello, Ruby."
+puts "Hello, World."
 
-puts "Hello, ", "Ruby!"
+puts "Hello, ", "World!"
