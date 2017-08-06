@@ -1,3 +1,3 @@
-print("Hello, \nRuby\n!\n\n")
+print("Hello, \nWorld\n!\n\n")
 
-print("Hello, \\Ruby!\n")
+print("Hello, \\World!\n")
