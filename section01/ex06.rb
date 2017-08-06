@@ -10,5 +10,5 @@ puts
 p 100
 puts
 
-puts "Hello,\n\tRuby."
-p "Hello,\n\tRuby."
+puts "Hello,\n\tWorld."
+p "Hello,\n\tWorld."
