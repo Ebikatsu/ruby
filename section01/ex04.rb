@@ -1,4 +1,4 @@
-print "Hello, Ruby.\n"
+print "Hello, World.\n"
 
-print "Hello, ", "Ruby", ".", "\n"
+print "Hello, ", "World", ".", "\n"
 
