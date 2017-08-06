@@ -1,3 +1,3 @@
 10.times do 
-    print "All work and no play makes Jack a dull boy.\n"
+    print "気合だ！\n"
 end
