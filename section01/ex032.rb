@@ -1,3 +1,3 @@
-print('Hello, \\ Ruby\n!\n')
+print('Hello, \\ World\n!\n')
 
 print("\n")
