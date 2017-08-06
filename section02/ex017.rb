@@ -1,4 +1,4 @@
-names = ["小林", "林", "高野", "森岡"]
+names = ["花澤", "内田", "雨宮", "小松"]
 
 names.each do |name|
     puts name
